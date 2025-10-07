@@ -1,2 +1,2 @@
-# Socio-Digital-Inequalities-CRIS
-Repository with material for the course on socio-digital inequalities at Science Po (CRIS) [TEMPORARY]
+# Music and Youth Identities
+Repository with syllabus, readings, code, data
